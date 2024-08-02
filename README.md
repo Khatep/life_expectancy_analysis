@@ -1,5 +1,5 @@
 # life_expectancy_analysis
-This is a DataScience project on Jupyter Notebook. 
+This is a DataScience project on Jupyter Notebook. I downloaded the CSV file from open source [link](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who). I did the analysis as part of my university studies.  
 
 ## Table of Contents
 - [Tech Stack](#tech-stack)
@@ -11,10 +11,10 @@ This is a DataScience project on Jupyter Notebook.
 
 - Python3
 - JupyterNotebook v7.1.1
-- numpy
-- pandas
-- sklearn
-- matplotlib
+- Numpy
+- Pandas
+- Sklearn
+- Matplotlib
 
 ## Installation
 
@@ -41,9 +41,8 @@ life_expectancy_analysis/
 └── README.md
 ```
 
-Do you have ideas or suggestions for other features? Feel free to [open an issue](https://github.com/your-username/your-project/issues) or submit a pull request! or send me email nurgali.khatep@gmail.com 
-
 ## Authors
 
 #### Khatep Nurgali
 
+Do you have ideas or suggestions for other features? Feel free to [open an issue](https://github.com/your-username/your-project/issues) or submit a pull request! or send me email nurgali.khatep@gmail.com 
